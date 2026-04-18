@@ -46,8 +46,6 @@ for(let i=0; i<alumnos; i++)
         }else{
             alert("Error: Ingresa números válidos");
         }
-        
-        
     }
     if(!registro)break;
 }
